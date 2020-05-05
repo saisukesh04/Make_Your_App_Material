@@ -35,7 +35,7 @@
             android:paddingTop="16dp"
             android:paddingRight="16dp"
             android:paddingBottom="4dp"
-            android:textColor="@color/OrangeRed" />
+            android:textColor="@color/colorPrimary" />
 
         <TextView
             android:id="@+id/article_subtitle"
@@ -47,7 +47,7 @@
             android:paddingLeft="16dp"
             android:paddingRight="16dp"
             android:paddingBottom="16dp"
-            android:textColor="@color/Aqua" />
+            android:textColor="@color/colorAccent" />
     </LinearLayout>
 
 </androidx.cardview.widget.CardView>

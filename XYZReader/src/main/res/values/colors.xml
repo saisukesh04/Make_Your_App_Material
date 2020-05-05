@@ -18,13 +18,11 @@
 <resources>
     <color name="photo_placeholder">#ccc</color>
 
-    <color name="theme_primary">#04561A</color>
-    <color name="theme_primary_dark">#04561A</color>
-    <color name="theme_accent">#04561A</color>
+    <color name="colorPrimary">#FF4E0D</color>
+    <color name="colorPrimaryDark">#E63E00</color>
+    <color name="colorAccent">#00BAFF</color>
 
-    <color name="White">#FFFFFF</color>
-    <color name="OrangeRed">#FF4E0D</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#FFFFFF</color>
     <color name="Gray">#808080</color>
-    <color name="Aqua">#00BAFF</color>
-    <color name="Black">#000000</color>
 </resources>

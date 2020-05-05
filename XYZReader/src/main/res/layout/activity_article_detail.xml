@@ -18,7 +18,7 @@
             android:id="@+id/action_up"
             android:layout_width="56dp"
             android:layout_height="?actionBarSize"
-            android:background="@color/OrangeRed"
+            android:background="@color/colorPrimary"
             android:contentDescription="@string/up"
             android:src="@drawable/ic_arrow_back" />
     </FrameLayout>
