@@ -13,7 +13,7 @@
     <dimen name="detail_metabar_vert_padding">16dp</dimen>
     <dimen name="detail_metabar_title_bottom_padding">4dp</dimen>
     <dimen name="detail_body_top_margin">16dp</dimen>
-    <dimen name="detail_body_bottom_margin">88dp</dimen>
+    <dimen name="detail_body_bottom_margin">32dp</dimen>
 
     <dimen name="photo_height_background">400dp</dimen>
 </resources>
