@@ -22,7 +22,7 @@
                 <ImageView
                     android:id="@+id/photo"
                     android:layout_width="match_parent"
-                    android:layout_height="400dp"
+                    android:layout_height="@dimen/photo_height_background"
                     android:scaleType="fitXY"/>
 
                 <View
